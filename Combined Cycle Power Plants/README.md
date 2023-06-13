@@ -27,7 +27,7 @@ To run this project, you will need to have Python installed on your computer. Yo
 1. Clone the repository to your local machine.
 2. Install the required packages using pip:
 `
-pip install -r requirements.txt
+pip install -r requirements.txt --ignore-installed
 `
 3. Run the Python script:
 `
