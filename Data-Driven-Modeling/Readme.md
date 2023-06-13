@@ -1,10 +1,9 @@
-# Data-Driven Modeling
+# Data Driven Modeling
 This repository contains code examples for simple linear regression, multiple linear regression, and polynomial regression using scikit-learn library in Python. These notebooks are designed as introductory materials for machine learning.
 
 ## Getting Started
 1. To get started with the code, follow these steps:
-Clone the repository: git clone https://github.com/Mahsasalimi/Machine-Learning/Data-Driven-Modeling.git
-https://github.com/Mahsasalimi/Machine-Learning/tree/9e4f005f50345b20d4ba4481a7288c32f503adea/Data%20Driven%20Modeling
+Clone the repository: git clone https://github.com/Mahsasalimi/Machine-Learning/tree/main/Data-Driven-Modeling
 
 2. Navigate to the project directory: cd Data-Driven-Modeling
 
