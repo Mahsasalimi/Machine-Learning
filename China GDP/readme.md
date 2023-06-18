@@ -22,7 +22,7 @@ The notebook in this repository demonstrates how to fit a non-linear model to th
 The repository includes the following files:
 
 - `china_gdp_NoneLinearRegression.ipynb`: Jupyter Notebook containing the code and analysis.
-- `dataset.csv`: The dataset used for the analysis.
+- `china_gdp.csv`: The dataset used for the analysis.
 
 ## Requirements
 
