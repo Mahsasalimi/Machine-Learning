@@ -36,7 +36,9 @@ To run the notebook, you will need the following dependencies:
 - Matplotlib
 
 You can install the dependencies using pip:
-pip install numpy pandas scikit-learn matplotlib
+
+`
+pip install numpy pandas scikit-learn matplotlib`
 
 
 ## Instructions
