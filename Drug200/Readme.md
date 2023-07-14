@@ -29,7 +29,7 @@ The provided Jupyter Notebook file, Drug200.ipynb, contains the code for perform
 ## Usage
 1. Clone the repository to your local machine.
 2. Install the required dependencies using the above command.
-3. Launch Jupyter Notebook and open the `drug200.ipynb` file.
+3. Launch Jupyter Notebook and open the `DecisionTree.ipynb` file.
 4. Execute the main script or run the Jupyter Notebook to reproduce the results.
 5. Review the output, including data exploration visualizations, model accuracy, and the decision tree visualization.
 
