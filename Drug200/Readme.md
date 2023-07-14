@@ -16,7 +16,8 @@ The dataset used for this classification task is stored in the drug200.csv file.
 The following dependencies are required to run the project:
 
 - Python (version 3.6 or higher)
-- Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib, plotly
+- Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib, plotly.
+
 You can install the dependencies using pip:
 ``pip install pandas numpy scikit-learn seaborn matplotlib plotly``
 
