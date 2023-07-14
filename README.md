@@ -23,7 +23,7 @@ If you're new to machine learning or want to explore the projects and tutorials 
 1. Clone this repository to your local machine using the following command:
 
    `
-   git clone https://github.com/your-username/machine-learning-repo.git `
+   git clone https://github.com/Mahsasalimi/Machine-Learning.git `
  
 2. Set up your Python environment with the required dependencies. You can install the dependencies by running the following command:
 
